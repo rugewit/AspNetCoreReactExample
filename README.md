@@ -4,5 +4,5 @@
 
 **Стек**: C#, ASP.NET Core, Entity Framework, Sqlite, Javascript, React
 
-![photo_1](https://github.com/rugewit/AspNetCoreReactExample/blob/main/photo1.png)
+![photo_1](https://github.com/rugewit/AspNetCoreReactExample/blob/main/photo_1.png)
 
